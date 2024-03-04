@@ -1,0 +1,19 @@
+﻿  源.cpp
+C:\Users\ayaro\source\repos\IP地址转换\源.cpp(13,42): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ayaro\source\repos\IP地址转换\源.cpp(14,32): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ayaro\source\repos\IP地址转换\源.cpp(16,45): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ayaro\source\repos\IP地址转换\源.cpp(17,33): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ayaro\source\repos\IP地址转换\源.cpp(19,45): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ayaro\source\repos\IP地址转换\源.cpp(20,32): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ayaro\source\repos\IP地址转换\源.cpp(22,44): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ayaro\source\repos\IP地址转换\源.cpp(23,33): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ayaro\source\repos\IP地址转换\源.cpp(27,45): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ayaro\source\repos\IP地址转换\源.cpp(28,33): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ayaro\source\repos\IP地址转换\源.cpp(30,46): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ayaro\source\repos\IP地址转换\源.cpp(31,34): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ayaro\source\repos\IP地址转换\源.cpp(33,46): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ayaro\source\repos\IP地址转换\源.cpp(34,34): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ayaro\source\repos\IP地址转换\源.cpp(36,45): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ayaro\source\repos\IP地址转换\源.cpp(37,34): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\ayaro\source\repos\IP地址转换\源.cpp(41,119): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+  IP地址转换.vcxproj -> C:\Users\ayaro\source\repos\IP地址转换\Debug\IP地址转换.exe

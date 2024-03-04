@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\ayaro\source\repos\停车场管理系统\源.cpp(60,15): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\ayaro\source\repos\停车场管理系统\源.cpp(23): error C4716: “Time::operator-”: 必须返回一个值
+C:\Users\ayaro\source\repos\停车场管理系统\源.cpp(34): error C4716: “Time::operator+”: 必须返回一个值

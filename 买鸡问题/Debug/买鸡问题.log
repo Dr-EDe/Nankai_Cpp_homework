@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\ayaro\source\repos\买鸡问题\源.cpp(1,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\ayaro\source\repos\买鸡问题\源.cpp(3,13): warning C4326: “main”的返回类型应为“int”而非“void”
+  买鸡问题.vcxproj -> C:\Users\ayaro\source\repos\买鸡问题\Debug\买鸡问题.exe

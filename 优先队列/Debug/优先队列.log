@@ -1,0 +1,33 @@
+﻿  源.cpp
+C:\Users\ayaro\source\repos\优先队列\源.cpp(91,15): warning C4244: “初始化”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+C:\Users\ayaro\source\repos\优先队列\源.cpp(90): message : 在编译 类 模板 成员函数“T PriorityQueue<T>::back(void)”时
+          with
+          [
+              T=int
+          ]
+C:\Users\ayaro\source\repos\优先队列\源.cpp(126): message : 查看对正在编译的函数 模板 实例化“T PriorityQueue<T>::back(void)”的引用
+          with
+          [
+              T=int
+          ]
+C:\Users\ayaro\source\repos\优先队列\源.cpp(106): message : 查看对正在编译的 类 模板 实例化“PriorityQueue<int>”的引用
+C:\Users\ayaro\source\repos\优先队列\源.cpp(76,15): warning C4244: “初始化”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+C:\Users\ayaro\source\repos\优先队列\源.cpp(75): message : 在编译 类 模板 成员函数“T PriorityQueue<T>::front(void)”时
+          with
+          [
+              T=int
+          ]
+C:\Users\ayaro\source\repos\优先队列\源.cpp(118): message : 查看对正在编译的函数 模板 实例化“T PriorityQueue<T>::front(void)”的引用
+          with
+          [
+              T=int
+          ]
+  优先队列.vcxproj -> C:\Users\ayaro\source\repos\优先队列\Debug\优先队列.exe

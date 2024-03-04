@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Users\ayaro\source\repos\十六进制转十进制\源.cpp(31,9): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  十六进制转十进制.vcxproj -> C:\Users\ayaro\source\repos\十六进制转十进制\Debug\十六进制转十进制.exe

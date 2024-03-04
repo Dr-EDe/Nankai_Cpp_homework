@@ -1,0 +1,7 @@
+﻿  源.cpp
+C:\Users\ayaro\source\repos\三维世界的派生与继承 - 2022\源.cpp(7,29): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\ayaro\source\repos\三维世界的派生与继承 - 2022\源.cpp(48,22): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+C:\Users\ayaro\source\repos\三维世界的派生与继承 - 2022\源.cpp(51,22): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+C:\Users\ayaro\source\repos\三维世界的派生与继承 - 2022\源.cpp(69,38): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+C:\Users\ayaro\source\repos\三维世界的派生与继承 - 2022\源.cpp(72,39): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  三维世界的派生与继承 - 2022.vcxproj -> C:\Users\ayaro\source\repos\三维世界的派生与继承 - 2022\Debug\三维世界的派生与继承 - 2022.exe

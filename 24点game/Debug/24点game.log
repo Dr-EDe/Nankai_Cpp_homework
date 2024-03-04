@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\ayaro\source\repos\24点game\源.cpp(58,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\ayaro\source\repos\24点game\源.cpp(50,17): warning C4101: “R3”: 未引用的局部变量
+C:\Users\ayaro\source\repos\24点game\源.cpp(11): warning C4715: “op”: 不是所有的控件路径都返回值
+  24点game.vcxproj -> C:\Users\ayaro\source\repos\24点game\Debug\24点game.exe

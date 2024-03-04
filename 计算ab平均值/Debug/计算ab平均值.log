@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\Users\ayaro\source\repos\计算ab平均值\源.cpp(10,12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  计算ab平均值.vcxproj -> C:\Users\ayaro\source\repos\计算ab平均值\Debug\计算ab平均值.exe
